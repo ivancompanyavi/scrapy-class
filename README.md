@@ -1,6 +1,4 @@
-# scrapy-class
-
-Practical web crawling with Scrapy
+# Practical web crawling with Scrapy
 
 This project contains a set of examples of how to extract data with Scrapy. In this case, this project has three examples:
 * Meneame.net
